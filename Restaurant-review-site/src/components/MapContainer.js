@@ -14,8 +14,6 @@ import ResturantList from '../components/ResturantList';
 require('dotenv').config()
 
 const apiKey = `${process.env.REACT_APP_API_KEY}`
-//const apiKey = process.env.REACT_APP_API_KEY
-console.log(apiKey)
 
 // const mapStyles = {
 //     width: '50%',

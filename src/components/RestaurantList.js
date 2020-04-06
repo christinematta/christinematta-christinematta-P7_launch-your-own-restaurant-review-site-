@@ -3,7 +3,7 @@ import RestaurantCard from "./RestaurantCard";
 import { Redirect } from "react-router";
 import safeJsonStringify from "safe-json-stringify";
 
-export default class ResturantList extends React.Component {
+export default class RestaurantList extends React.Component {
   constructor(props) {
     super(props);
 

@@ -22,8 +22,8 @@ export default class App extends Component {
    
       <BrowserRouter>
       <Switch>
-      <Route  exact path="/" component={MapContainer}/>
-      <Route exact path="/place" component={PlaceDetails}/>
+      <Route  exact path="P7_launch-your-own-restaurant-review-site/" component={MapContainer}/>
+      <Route exact path="P7_launch-your-own-restaurant-review-site/place" component={PlaceDetails}/>
       </Switch>
       </BrowserRouter>
       </Grid>

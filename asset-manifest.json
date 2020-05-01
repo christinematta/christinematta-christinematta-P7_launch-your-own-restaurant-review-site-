@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/P7_launch-your-own-restaurant-review-site/static/css/main.871f99b5.chunk.css",
-    "main.js": "/P7_launch-your-own-restaurant-review-site/static/js/main.6f8e6710.chunk.js",
-    "main.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/main.6f8e6710.chunk.js.map",
+    "main.js": "/P7_launch-your-own-restaurant-review-site/static/js/main.50049d12.chunk.js",
+    "main.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/main.50049d12.chunk.js.map",
     "runtime-main.js": "/P7_launch-your-own-restaurant-review-site/static/js/runtime-main.be087fa9.js",
     "runtime-main.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/runtime-main.be087fa9.js.map",
     "static/css/2.e49e09ab.chunk.css": "/P7_launch-your-own-restaurant-review-site/static/css/2.e49e09ab.chunk.css",
     "static/js/2.be448ec2.chunk.js": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js",
     "static/js/2.be448ec2.chunk.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js.map",
     "index.html": "/P7_launch-your-own-restaurant-review-site/index.html",
-    "precache-manifest.4b888e946a8455da8fb0edd92eb8eee5.js": "/P7_launch-your-own-restaurant-review-site/precache-manifest.4b888e946a8455da8fb0edd92eb8eee5.js",
+    "precache-manifest.97935a17e12337c70790442b36b3d7b7.js": "/P7_launch-your-own-restaurant-review-site/precache-manifest.97935a17e12337c70790442b36b3d7b7.js",
     "service-worker.js": "/P7_launch-your-own-restaurant-review-site/service-worker.js",
     "static/css/2.e49e09ab.chunk.css.map": "/P7_launch-your-own-restaurant-review-site/static/css/2.e49e09ab.chunk.css.map",
     "static/css/main.871f99b5.chunk.css.map": "/P7_launch-your-own-restaurant-review-site/static/css/main.871f99b5.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.e49e09ab.chunk.css",
     "static/js/2.be448ec2.chunk.js",
     "static/css/main.871f99b5.chunk.css",
-    "static/js/main.6f8e6710.chunk.js"
+    "static/js/main.50049d12.chunk.js"
   ]
 }

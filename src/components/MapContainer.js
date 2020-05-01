@@ -99,7 +99,6 @@ export class MapContainer extends Component {
 
 
     getModal() {
-      console.log("modallll");
       return (
         <MyModal positon={this.state.latLng}
         OnClose={()=> {this.setState({openModal:false})}}
@@ -109,7 +108,6 @@ export class MapContainer extends Component {
     addNewRest= (newRest)=>{ 
       newRest.lat = this.state.latLng.lat();
       newRest.lng = this.state.latLng.lng();
-      console.log(newRest);
       this.setState(prevState => ({
         restarray: [newRest,...prevState.restarray],// add the new array items to the existing array
         openModal:false

@@ -53,7 +53,6 @@ export class CurrentLocation extends React.Component {
 
         if (this.props.centerAroundCurrentLocation) {
             if (navigator && navigator.geolocation) {
-                console.log(this.state.currentLocation.lat);
                 navigator.geolocation.getCurrentPosition(pos => {
                     const coords = pos.coords;
                     this.setState({
@@ -70,7 +69,6 @@ export class CurrentLocation extends React.Component {
     }
 
     loadMap() {
-        console.log(this.props.google);
         if (this.props && this.props.google) {
             // checks if google is available
             const {google} = this.props;

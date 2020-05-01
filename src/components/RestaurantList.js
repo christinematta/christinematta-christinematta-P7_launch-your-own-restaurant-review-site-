@@ -43,8 +43,6 @@ export default class RestaurantList extends React.Component {
 
   render() {
     if (this.state.redirect) {
-      console.log("redirecting");
-      console.log(this.state.selectedRest);
       return (
         <Redirect
           push
@@ -52,7 +50,7 @@ export default class RestaurantList extends React.Component {
             pathname: "/place",
             state: {
               selectedRest: this.state.selectedRest,
-              place: safeJsonStringify(this.state.placeDetails)//pass place details from resturatlist to placdetails component
+              place: safeJsonStringify(this.state.placeDetails)//pass place details from restaurant List to placeDetails component
             }
           }}
         />

@@ -18,11 +18,9 @@ export default class MyModal extends React.Component{
     }
   }
   onClickSaveRestraunt = (e)=> {
-    e.preventDefault(); // to prevent form submission 
-    console.log('hii');
-    console.log(this.state.newPlace);
+    e.preventDefault(); // to prevent form submission
     this.props.onSubmit(this.state.newPlace);
-  }
+  };
 
   render(){
 

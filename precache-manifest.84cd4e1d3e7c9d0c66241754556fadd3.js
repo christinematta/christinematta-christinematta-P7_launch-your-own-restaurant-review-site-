@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b1dc53027dcac7b32d9854efecbace8",
+    "revision": "bda63aa48d008b04d12f757c2725da7e",
     "url": "/P7_launch-your-own-restaurant-review-site/index.html"
   },
   {
-    "revision": "070561736f785f4a13bf",
+    "revision": "012053dc1e0110cd0d65",
     "url": "/P7_launch-your-own-restaurant-review-site/static/css/2.e49e09ab.chunk.css"
   },
   {
-    "revision": "ca93b9cb9a2f447bec77",
+    "revision": "3ba623b808dfafa47803",
     "url": "/P7_launch-your-own-restaurant-review-site/static/css/main.871f99b5.chunk.css"
   },
   {
-    "revision": "070561736f785f4a13bf",
-    "url": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js"
+    "revision": "012053dc1e0110cd0d65",
+    "url": "/P7_launch-your-own-restaurant-review-site/static/js/2.6888d387.chunk.js"
   },
   {
     "revision": "2b8cc04d3b239d52c1e995484cbcd9e3",
-    "url": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js.LICENSE.txt"
+    "url": "/P7_launch-your-own-restaurant-review-site/static/js/2.6888d387.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca93b9cb9a2f447bec77",
-    "url": "/P7_launch-your-own-restaurant-review-site/static/js/main.9e4e79ad.chunk.js"
+    "revision": "3ba623b808dfafa47803",
+    "url": "/P7_launch-your-own-restaurant-review-site/static/js/main.3a149205.chunk.js"
   },
   {
     "revision": "594a4f767617984bdf3a",

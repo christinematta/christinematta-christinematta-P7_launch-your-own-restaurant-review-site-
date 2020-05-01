@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/P7_launch-your-own-restaurant-review-site/static/css/main.871f99b5.chunk.css",
+    "main.js": "/P7_launch-your-own-restaurant-review-site/static/js/main.9e4e79ad.chunk.js",
+    "main.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/main.9e4e79ad.chunk.js.map",
+    "runtime-main.js": "/P7_launch-your-own-restaurant-review-site/static/js/runtime-main.be087fa9.js",
+    "runtime-main.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/runtime-main.be087fa9.js.map",
+    "static/css/2.e49e09ab.chunk.css": "/P7_launch-your-own-restaurant-review-site/static/css/2.e49e09ab.chunk.css",
+    "static/js/2.be448ec2.chunk.js": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js",
+    "static/js/2.be448ec2.chunk.js.map": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js.map",
+    "index.html": "/P7_launch-your-own-restaurant-review-site/index.html",
+    "precache-manifest.c1a59c59dd6c5531a656eb6d3fa45ab1.js": "/P7_launch-your-own-restaurant-review-site/precache-manifest.c1a59c59dd6c5531a656eb6d3fa45ab1.js",
+    "service-worker.js": "/P7_launch-your-own-restaurant-review-site/service-worker.js",
+    "static/css/2.e49e09ab.chunk.css.map": "/P7_launch-your-own-restaurant-review-site/static/css/2.e49e09ab.chunk.css.map",
+    "static/css/main.871f99b5.chunk.css.map": "/P7_launch-your-own-restaurant-review-site/static/css/main.871f99b5.chunk.css.map",
+    "static/js/2.be448ec2.chunk.js.LICENSE.txt": "/P7_launch-your-own-restaurant-review-site/static/js/2.be448ec2.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/P7_launch-your-own-restaurant-review-site/static/media/logo.5272c3ea.png",
+    "static/media/restmarker.png": "/P7_launch-your-own-restaurant-review-site/static/media/restmarker.5489b72f.png",
+    "static/media/search-icon.png": "/P7_launch-your-own-restaurant-review-site/static/media/search-icon.e0c8f2cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be087fa9.js",
+    "static/css/2.e49e09ab.chunk.css",
+    "static/js/2.be448ec2.chunk.js",
+    "static/css/main.871f99b5.chunk.css",
+    "static/js/main.9e4e79ad.chunk.js"
+  ]
+}
